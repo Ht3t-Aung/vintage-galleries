@@ -35,7 +35,7 @@ look at the connection.php file for more information.
     
 ## Roadmap
 
-- Fix some errors the are left 
+- Fix some errors that are left 
 
 - Add more Features
 
