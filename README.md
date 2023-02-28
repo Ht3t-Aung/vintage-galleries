@@ -29,7 +29,9 @@ In my case
 $servername = 'localhost:3307';
 	$username = 'root';
 	$password = '';
-    dbname = vintage
+    dbname = vintage;
+    
+look at the connection.php file for more information.
     
 ## Roadmap
 
